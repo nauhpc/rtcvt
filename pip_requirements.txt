@@ -3,7 +3,7 @@ anyjson==0.3.3
 appdirs==1.4.0
 asgi-redis==1.0.0
 asgiref==1.0.0
-autobahn==0.17.1
+autobahn==20.12.3
 billiard==3.5.0.2
 celery==4.0.2
 channels==1.0.2
